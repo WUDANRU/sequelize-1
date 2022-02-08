@@ -1,0 +1,9 @@
+orm //映射模型
+
+mysql workbench创建数据库ormmodel
+
+npm init -y
+
+cnpm i mysql2 -S
+
+cnpm i sequelize -S
